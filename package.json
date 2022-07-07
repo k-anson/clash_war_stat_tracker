@@ -1,0 +1,30 @@
+{
+  "name": "clash_war_stat_tracker",
+  "version": "0.1.0",
+  "description": "Pulls Clash of Clan war data into Google Sheets for stat tracking",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-anson/clash_war_stat_tracker.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k-anson/clash_war_stat_tracker/issues"
+  },
+  "homepage": "https://github.com/k-anson/clash_war_stat_tracker#readme",
+  "dependencies": {
+    "@googleapis/sheets": "^3.0.2",
+    "clashofclans.js": "^2.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.1",
+    "ts-node": "^10.8.2",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  }
+}

@@ -1,0 +1,156 @@
+{
+	"state": "inWar",
+	"teamSize": 5,
+	"preparationStartTime": "20201206T172541.000Z",
+	"startTime": "20201207T185525.000Z",
+	"endTime": "20201208T185525.000Z",
+	"clan": {
+		"tag": "#AAAAAAAAA",
+		"name": "Home Clan",
+		"badgeUrls": {
+			"small": "https://api-assets.clashofclans.com/badges/70/hQ12CUKHw27-enlS8oC0YR-FTB5vwMpRUEIempbr31E.png",
+			"large": "https://api-assets.clashofclans.com/badges/512/hQ12CUKHw27-enlS8oC0YR-FTB5vwMpRUEIempbr31E.png",
+			"medium": "https://api-assets.clashofclans.com/badges/200/hQ12CUKHw27-enlS8oC0YR-FTB5vwMpRUEIempbr31E.png"
+		},
+		"clanLevel": 10,
+		"attacks": 2,
+		"stars": 2,
+		"destructionPercentage": 8.866666666666667,
+		"members": [
+			{
+				"tag": "#AAAAAAAAA",
+				"name": "Player1",
+				"townhallLevel": 12,
+				"mapPosition": 4,
+				"opponentAttacks": 0
+			},
+			{
+				"tag": "#AAAAAAAAB",
+				"name": "Player2",
+				"townhallLevel": 10,
+				"mapPosition": 11,
+				"opponentAttacks": 0
+			},
+			{
+				"tag": "#AAAAAAAAC",
+				"name": "Player3",
+				"townhallLevel": 10,
+				"mapPosition": 15,
+				"opponentAttacks": 0
+			},
+			{
+				"tag": "#AAAAAAAAD",
+				"name": "Player4",
+				"townhallLevel": 10,
+				"mapPosition": 10,
+				"attacks": [
+					{
+						"attackerTag": "#AAAAAAAAD",
+						"defenderTag": "#AAAAAAAAE",
+						"stars": 1,
+						"destructionPercentage": 54,
+						"order": 1
+					}
+				],
+				"opponentAttacks": 1,
+				"bestOpponentAttack": {
+					"attackerTag": "#AAAAAAAAH",
+					"defenderTag": "#AAAAAAAAD",
+					"stars": 2,
+					"destructionPercentage": 82,
+					"order": 3
+				}
+			},
+			{
+				"tag": "#AAAAAAAAF",
+				"name": "Player5",
+				"townhallLevel": 11,
+				"mapPosition": 8,
+				"attacks": [
+					{
+						"attackerTag": "#AAAAAAAAF",
+						"defenderTag": "#AAAAAAAAG",
+						"stars": 1,
+						"destructionPercentage": 79,
+						"order": 2
+					}
+				],
+				"opponentAttacks": 0
+			}
+		]
+	},
+	"opponent": {
+		"tag": "#AAAAAAAAB",
+		"name": "Away Clan",
+		"badgeUrls": {
+			"small": "https://api-assets.clashofclans.com/badges/70/rTFseodzEUYkqbNxXO_YqG57bBvyQk0OW5PcqKvPcBQ.png",
+			"large": "https://api-assets.clashofclans.com/badges/512/rTFseodzEUYkqbNxXO_YqG57bBvyQk0OW5PcqKvPcBQ.png",
+			"medium": "https://api-assets.clashofclans.com/badges/200/rTFseodzEUYkqbNxXO_YqG57bBvyQk0OW5PcqKvPcBQ.png"
+		},
+		"clanLevel": 7,
+		"attacks": 1,
+		"stars": 2,
+		"destructionPercentage": 5.466666666666667,
+		"members": [
+			{
+				"tag": "#AAAAAAAAI",
+				"name": "Player6",
+				"townhallLevel": 12,
+				"mapPosition": 5,
+				"opponentAttacks": 0
+			},
+			{
+				"tag": "#AAAAAAAAG",
+				"name": "Player7",
+				"townhallLevel": 11,
+				"mapPosition": 9,
+				"opponentAttacks": 1,
+				"bestOpponentAttack": {
+					"attackerTag": "#AAAAAAAAF",
+					"defenderTag": "#AAAAAAAAG",
+					"stars": 1,
+					"destructionPercentage": 79,
+					"order": 2
+				}
+			},
+			{
+				"tag": "#AAAAAAAAE",
+				"name": "Player8",
+				"townhallLevel": 11,
+				"mapPosition": 11,
+				"opponentAttacks": 1,
+				"bestOpponentAttack": {
+					"attackerTag": "#AAAAAAAAD",
+					"defenderTag": "#AAAAAAAAE",
+					"stars": 1,
+					"destructionPercentage": 54,
+					"order": 1
+				}
+			},
+			{
+				"tag": "#Player9",
+				"name": "AAAAAAAAJ",
+				"townhallLevel": 8,
+				"mapPosition": 28,
+				"opponentAttacks": 0
+			},
+			{
+				"tag": "#AAAAAAAAH",
+				"name": "Player10",
+				"townhallLevel": 11,
+				"mapPosition": 6,
+				"attacks": [
+					{
+						"attackerTag": "#AAAAAAAAH",
+						"defenderTag": "#AAAAAAAAD",
+						"stars": 2,
+						"destructionPercentage": 82,
+						"order": 3
+					}
+				],
+				"opponentAttacks": 0
+			}
+		]
+	},
+	"warStartTime": "20201207T185525.000Z"
+}

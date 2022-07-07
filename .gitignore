@@ -1,0 +1,5 @@
+.env
+.vscode
+credentials.json
+dist/
+node_modules/
